@@ -1,0 +1,8 @@
+Index,From,To,Distance
+0,Shop,Shop,0
+1,Lahore,Shop,5
+2,Gujranwala,Kamoki,3
+3,Islamabad,Lahore,10
+4,Kamoki,Manawala,3
+5,Manawala,Lahore,2
+6,Sialkot,Islamabad,4
